@@ -1,4 +1,4 @@
-<img width="100%" src="https://ibb.co/cybjjHD" alt="my banner">
+<img width="100%" src="https://i.ibb.co/2F8TTQg/github-header-image-1.png" alt="my banner">
 
 I'm a currently student level 8 in BSc degree in IT & Computer Science at CCT College Dublin.
 
@@ -31,13 +31,3 @@ I`m actively working on personal projects and looking for an Software Developmen
 <a href="https://www.instagram.com/https://www.instagram.com/lucas_albuquerquue/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=lucasaaramos">
-</p>
-
-## 📊 Github Status
