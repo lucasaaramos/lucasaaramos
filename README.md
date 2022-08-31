@@ -1,4 +1,4 @@
-<img width="100%" src="https://pixabay.com/pt/illustrations/profile-github-photo-image-7423059/" alt="my banner">
+<img width="100%" src="https://ibb.co/cybjjHD" alt="my banner">
 
 I'm a currently student level 8 in BSc degree in IT & Computer Science at CCT College Dublin.
 
