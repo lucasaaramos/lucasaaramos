@@ -10,8 +10,6 @@ Recently I had the opportunity to start in the area as Global Technical Support 
 
 I`m actively working on personal projects and looking for an Software Development position with a fast-paced and ambitious company that can offer development training, project and based learning.
 
-## 💫 Liitle Bit More About Me
-
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
